@@ -18,6 +18,7 @@ We operated on Coronavirus Tweet Sentiment Analysis dataset for the year 2020 wh
 Conclusion:
 
 Five Models have been tested -
+
 1.Logistics Regression: Accuracy = 78.4464 %, Precision = 78.2148 % , Recall = 78.4464 %.
 2.Decision Tree: Accuracy = 63.3558 %, Precision = 63.8142 % , Recall = 63.3558 %.
 3.Support Vector Machine: Accuracy = 77.8170 %, Precision = 77.6483 % , Recall = 77.8170%.
