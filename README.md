@@ -24,4 +24,4 @@ Five Models have been tested -
 3. Support Vector Machine: Accuracy = 77.8170 %, Precision = 77.6483 % , Recall = 77.8170%.
 4. XG-Boost: Accuracy = 63.1716 %, Precision = 63.7475 % , Recall = 63.1716%.
 5. Random Forest: Accuracy = 74.2247 %, Precision = 74.2363 % , Recall = 74.2247%.
-Since the score of Logistic Regression is the best, tuning the Logistic Regression increased the Accuracy to 78.4925 %, Precision to 78.3320 %, Recall to 78.4925 %
+6. Since the score of Logistic Regression is the best, tuning the Logistic Regression increased the Accuracy to 78.4925 %, Precision to 78.3320 %, Recall to 78.4925 %
